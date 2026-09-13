@@ -1,2 +1,2 @@
-a=10
-print(a)
+a=19
+print(a+1)

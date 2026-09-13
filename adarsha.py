@@ -1,1 +1,2 @@
-print("adarsh gowda")
+a=10
+print(a)
